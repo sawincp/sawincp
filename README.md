@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawincp&label=Profile%20views&color=0e75b6&style=flat" alt="sawincp" /> </p>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📝 I regularly write articles on [https://dev.to/sawincp](https://dev.to/sawincp)
 
